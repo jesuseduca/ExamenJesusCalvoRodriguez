@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Examen1JesúsCalvoRodriguez</string>
+    <string-array name="titulos_array">
+        <item>Política</item>
+        <item>Economía</item>
+        <item>Cultura</item>
+        <item>Deportes</item>
+    </string-array>
+</resources>
